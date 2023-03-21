@@ -1,0 +1,9 @@
+# This is a generated file; do not edit or check into version control.
+espresso=/Users/yunxing/.pub-cache/hosted/pub.flutter-io.cn/espresso-0.2.1/
+flutter_plugin_android_lifecycle=/Users/yunxing/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-2.0.9/
+image_picker_android=/Users/yunxing/TestCode/image_picker_android/
+integration_test=/Users/yunxing/.fvm/versions/3.3.8/packages/integration_test/
+video_player=/Users/yunxing/.pub-cache/hosted/pub.flutter-io.cn/video_player-2.6.0/
+video_player_android=/Users/yunxing/.pub-cache/hosted/pub.flutter-io.cn/video_player_android-2.4.2/
+video_player_avfoundation=/Users/yunxing/.pub-cache/hosted/pub.flutter-io.cn/video_player_avfoundation-2.4.2/
+video_player_web=/Users/yunxing/.pub-cache/hosted/pub.flutter-io.cn/video_player_web-2.0.15/
